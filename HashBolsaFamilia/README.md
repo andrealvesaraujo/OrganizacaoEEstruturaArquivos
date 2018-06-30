@@ -1,4 +1,4 @@
-#HashBolsaFamilia
+# HashBolsaFamilia
 
 Nesse trabalho tem 2 programas principais.O primeiro(CriarEInserirIndice) cria o indice e mapeia com os dados do BolsaFamiliaJaneiro.O segundo(BuscaIndice) cria e preenche num arquivo novo os elementos do BolsaFamiliaFeveiro que não estão em BolsaFamiliaJaneiro e quanta quantos elementos foram preenchidos.
 
